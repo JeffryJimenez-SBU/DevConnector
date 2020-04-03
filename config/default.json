@@ -1,3 +1,5 @@
 {
-  "mongoURI": "mongodb+srv://Jeffry:Moose1211@devconnector-ezqli.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://Jeffry:Moose1211@devconnector-ezqli.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secretTocken",
+  "githubToken": "e0c67d419bf40114700de3cc769406fa8a94f05d"
 }
